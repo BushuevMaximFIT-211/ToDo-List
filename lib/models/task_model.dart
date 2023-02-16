@@ -3,10 +3,5 @@ class Task
   
   final String text;
 
-  Task({required this.text});
-
-
-  
-
-  
+  Task({required this.text});  
 }
